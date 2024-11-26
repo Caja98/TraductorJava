@@ -13,6 +13,7 @@ Para ejecutar el traductor, sigue estos pasos:
 
    ```bash
    python3 mainTrac.py
+3. Esto creara un archivo java llamado `SalidaJava.java` listo para su ejecucion. 
 
 # **Ejemplo**
 sergio98@GarciaSergio:~/asmprograms/isic_A/traducPyJava$ python3 mainTrac.py
