@@ -14,5 +14,5 @@ Para ejecutar el traductor, sigue estos pasos:
    ```bash
    python3 mainTrac.py
 
-# **Ejemplo **
+# **Ejemplo**
 sergio98@GarciaSergio:~/asmprograms/isic_A/traducPyJava$ python3 mainTrac.py
